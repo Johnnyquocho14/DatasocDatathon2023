@@ -1,16 +1,19 @@
 # DatasocDatathon2023
 Code, Visualisation, and Presentation for UNSW Datasoc x NAB Datathon 2023 case competition - Grand Finalist 
 
-# Large Text (H1) **Built with …**
+## **Built with …**
 
-•	Tableau  
+•	Tableau 
 
-**File Dictionary:** Tableau dashboard that consists of air, water, and land analysis
-•	Datasoc x NAB Datathon – Case brief.pdf: A case study with a link to our dataset
-•	Datasoc x Nab.pptx: Final presentation that we presented on the competition day
-•	Data Visualisations: Data visualizations for land, water and waste, and air pollutants. 
 
-**Motivation**
+## **File Dictionary** 
+•	**Datasoc x NAB Datathon – Case brief.pdf:** A case study with a link to our dataset
+
+•	**Datasoc x Nab.pptx:** Final presentation that we presented on the competition day
+
+•	**Data Visualisations:** Data visualizations for land, water and waste, and air pollutants. 
+
+## **Motivation**
 
 **Problem Statement: 
 “How have environmental factors (air quality, water and waste management, and land cover changes) impacted long-term sustainability in Australia, and what strategies can be proposed to enhance environmental resilience?”**
@@ -21,7 +24,7 @@ Code, Visualisation, and Presentation for UNSW Datasoc x NAB Datathon 2023 case 
 
 
 
-**Summary of the Analysis** 
+## **Summary of the Analysis** 
 
 •	Performed data cleaning and pre-processing in the dataset by using Excel before feeding the entire dataset in Tableau for analysis.
 
